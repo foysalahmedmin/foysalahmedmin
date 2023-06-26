@@ -1,14 +1,12 @@
-### Hi there 👋, My name is Foysal Ahmed
-#### Web Developer
-![Web Developer]([https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/325833661_1335003990614434_8447191465027069533_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGURyA6Cr9q7tM0ySbXki5vE7-FqnthC0ETv4Wqe2ELQZcuHQx87uHuzQX649ukyvv33KE1IuME2Re_sRQv3Sqi&_nc_ohc=uIS_zH_MLBAAX-U2I_U&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AfDMl102ZGpLt26fAgjZPTAE_6EMJvrhYbK_tgE3tg1N9Q&oe=63CC8D10](https://meet.google.com/mre-uxzt-iwu))
+### Assalamualaiqum 🏳️, My name is FOYSAL AHMED.
+#### I am MARN stacks web developer.  
+![I am MARN stacks web developer.  ](https://media.licdn.com/dms/image/D5616AQH1NRuauk_p1A/profile-displaybackgroundimage-shrink_350_1400/0/1687695680764?e=1693440000&v=beta&t=nG7gI1K2wlnF-P750bYtaqWoDUuzSQ8FuxwNo5IHlRg)
 
-I'm web developer
+I am a skilled MERN stack web developer with a passion for creating innovative and user-friendly web applications. Through self-guided learning and practical projects. I have acquired expertise in React.js, MongoDB, Express.js, and Node.js. I am passionate, driven, adaptable, and determined to learn and grow in the field of web development.
 
-Skills: VUE JS / BOOTSTRAP / JS / HTML / CSS
+Skills: REACT / MongoDB / Express.Js / Node / JS / HTML / CSS
 
-- 🌱 I’m currently learning node js 
-
-
+- 🌱 I’m currently learning Next.js 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/foysalahmedmin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/foysal-ahmed-min/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/foysal.gq?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/FoysalAhmedMin)  
