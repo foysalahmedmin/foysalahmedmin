@@ -4,9 +4,16 @@
 
 I am a skilled MERN stack web developer with a passion for creating innovative and user-friendly web applications. Through self-guided learning and practical projects. I have acquired expertise in React.js, MongoDB, Express.js, and Node.js. I am passionate, driven, adaptable, and determined to learn and grow in the field of web development.
 
-Skills: Node / Express.Js / MongoDB / REACT / JS / HTML / CSS
+Skills: Node / Express.Js / MongoDB / React.Js / Next.Js / JS / HTML / CSS
 
-- 🌱 I’m currently learning Next.js 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=foysalahmedmin&label=Profile%20views&color=0e75b6&style=flat" alt="foysalahmedmin" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foysalahmedmin" alt="foysalahmedmin" /></a> </p>
+
+- 🔭 I’m currently working on [FIFOTech](https://fifo-tech.com/)
+- 🌱 I’m currently learning **AI**  
+- 💬 Ask me about **nodejs, express.js, react, mongodb, nextjs,**
+- 📫 How to reach me **foysalahmedmin@gmail.com**
 
 ### aboutFoysal.js
 
@@ -17,7 +24,7 @@ const Foysal = {
     askMeAbout: ["web dev", "tech", "poem", "novel", "movie", "coffee"],
     technologies: {
         frontEnd: {
-            framework_library : ["reactJS", "react-query", "tailwindCSS", "boorstrap"]
+            framework_library : [ "Next.js", "reactJS", "react-query", "tailwindCSS", "boorstrap"]
         },
         backEnd: {
             framework_library: ["modeJS", "expressJS", "mongoDB", "firebase"]
