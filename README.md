@@ -1,10 +1,10 @@
 ### Assalamualaiqum 🏳️, My name is FOYSAL AHMED.
 #### I am MERN stacks web developer.  
-![I am MARN stacks web developer.  ](https://media.licdn.com/dms/image/D5616AQH1NRuauk_p1A/profile-displaybackgroundimage-shrink_350_1400/0/1687695680764?e=1693440000&v=beta&t=nG7gI1K2wlnF-P750bYtaqWoDUuzSQ8FuxwNo5IHlRg)
+![I am MARN stacks web developer.  ](https://media.licdn.com/dms/image/D5616AQH1NRuauk_p1A/profile-displaybackgroundimage-shrink_200_800/0/1687695682401?e=2147483647&v=beta&t=cH8Hj3AHtyfjPjWqEXkQNQJ5AxvT9bo9XYz6tBxhQjA)
 
 I am a skilled MERN stack web developer with a passion for creating innovative and user-friendly web applications. Through self-guided learning and practical projects. I have acquired expertise in React.js, MongoDB, Express.js, and Node.js. I am passionate, driven, adaptable, and determined to learn and grow in the field of web development.
 
-Skills: REACT / MongoDB / Express.Js / Node / JS / HTML / CSS
+Skills: Node / Express.Js / MongoDB / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Next.js 
 
@@ -13,7 +13,7 @@ Skills: REACT / MongoDB / Express.Js / Node / JS / HTML / CSS
 ```javascript
 const Foysal = {
     pronouns: "he" | "him",
-    language: ["JavaScript"],
+    language: ["JavaScript, TypeScript"],
     askMeAbout: ["web dev", "tech", "poem", "novel", "movie", "coffee"],
     technologies: {
         frontEnd: {
@@ -22,7 +22,7 @@ const Foysal = {
         backEnd: {
             framework_library: ["modeJS", "expressJS", "mongoDB", "firebase"]
         },
-        specialized: ["javascript", "react.js", "firebase", "tailwindCSS", "frontend architecture"]
+        specialized: ["javascript", "typescript", "react.js", "firebase", "tailwindCSS", "frontend architecture"]
     }
 };
 ```
@@ -30,7 +30,7 @@ const Foysal = {
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=foysalahmedmin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=foysalahmedmin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foysalahmedmin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
