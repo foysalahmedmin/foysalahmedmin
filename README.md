@@ -24,12 +24,13 @@ const Foysal = {
     askMeAbout: ["web dev", "tech", "poem", "novel", "movie", "coffee"],
     technologies: {
         frontEnd: {
-            framework_library : [ "Next.js", "reactJS", "react-query", "tailwindCSS", "boorstrap"]
+            framework_library : ["next.js", "react.js", "react-query", "tailwindCSS", "boorstrap", "scss"]
         },
         backEnd: {
-            framework_library: ["modeJS", "expressJS", "mongoDB", "firebase"]
+            framework_library: ["express.js", "mongoose"],
+            database: ["mongoDB", "firebase"]
         },
-        specialized: ["javascript", "typescript", "react.js", "firebase", "tailwindCSS", "frontend architecture"]
+        specialized: ["javascript", "typescript", "react.js", "mode.js", "tailwindCSS", "frontend architecture"]
     }
 };
 ```
@@ -58,19 +59,23 @@ const Foysal = {
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="24" alt="react logo"  />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" alt="express logo"  />
   <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo"  />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="24" alt="sass logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" alt="bootstrap logo"  />
   <img width="30" />
