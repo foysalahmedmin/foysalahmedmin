@@ -1,8 +1,7 @@
-### Assalamualaiqum 🏳️, My name is FOYSAL AHMED.
-#### I am MERN stacks web developer.  
+### Assalamualaiqum 🏳️, I'm Foysal Ahmed. 
 ![I am MARN stacks web developer.  ](https://media.licdn.com/dms/image/D5616AQH1NRuauk_p1A/profile-displaybackgroundimage-shrink_200_800/0/1687695682401?e=2147483647&v=beta&t=cH8Hj3AHtyfjPjWqEXkQNQJ5AxvT9bo9XYz6tBxhQjA)
 
-I am a skilled MERN stack web developer with a passion for creating innovative and user-friendly web applications. Through self-guided learning and practical projects. I have acquired expertise in React.js, MongoDB, Express.js, and Node.js. I am passionate, driven, adaptable, and determined to learn and grow in the field of web development.
+I'm a skilled MERN stack web developer with a passion for creating innovative and user-friendly web applications. Through self-guided learning and practical projects. I have acquired expertise in React.js, MongoDB, Express.js, and Node.js. I am passionate, driven, adaptable, and determined to learn and grow in the field of web development.
 
 Skills: Node / Express.Js / MongoDB / React.Js / Next.Js / JS / HTML / CSS
 
