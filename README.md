@@ -21,16 +21,11 @@ Skills: Node / Express.Js / MongoDB / React.Js / Next.Js / JS / HTML / CSS
 const Foysal = {
     pronouns: "he" | "him",
     language: ["JavaScript, TypeScript"],
-    askMeAbout: ["web dev", "tech", "poem", "novel", "movie", "coffee"],
+    ask_me_about: ["web dev", "tech", "poem", "novel", "movie", "coffee"],
     technologies: {
-        frontEnd: {
-            framework_library : ["next.js", "react.js", "react-query", "tailwindCSS", "boorstrap", "scss"]
-        },
-        backEnd: {
-            framework_library: ["express.js", "mongoose"],
-            database: ["mongoDB", "firebase"]
-        },
-        specialized: ["javascript", "typescript", "react.js", "mode.js", "tailwindCSS", "frontend architecture"]
+        front_end: ["next.js", "react.js", "react-query", "tailwind-css", "boorstrap", "scss"],
+        back_end: ["mode.js", "express.js", "mongoose", "mongoDB", "firebase"],
+        specialized: ["javascript", "typescript", "react.js", "tailwind-css", "frontend architecture"]
     }
 };
 ```
