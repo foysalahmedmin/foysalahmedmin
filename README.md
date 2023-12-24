@@ -33,7 +33,7 @@ const Min = {
     technologies: {
         frontend: {
             frameworks: ["Next.js", "React.js"],
-            libraries: ["React Query"],
+            libraries: ["React Query", "Redux", "React Router"],
             styling: ["Tailwind CSS", "Bootstrap", "SCSS"],
             tools: ["ESLint", "Prettier"]
         },
@@ -41,7 +41,7 @@ const Min = {
             frameworks: ["Express.js"],
             libraries: ["Mongoose", "jsonwebtoken", "bcrypt.js" ,"Axios"],
             databases: ["MongoDB", "Firebase"],
-            tools: ["Node.js"],
+            tools: ["Node.js", "Postman"],
         },
         specializedIn: ["JavaScript", "TypeScript", "React.js", "Tailwind CSS", "Frontend Architecture"]
     }
