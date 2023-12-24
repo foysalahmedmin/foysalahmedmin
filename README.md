@@ -17,14 +17,33 @@ Skills: Node / Express.Js / MongoDB / React.Js / Next.Js / JS / HTML / CSS
 ### aboutFoysal.js
 
 ```javascript
-const Foysal = {
-    pronouns: "he" | "him",
-    language: ["JavaScript, TypeScript"],
-    ask_me_about: ["web dev", "tech", "poem", "novel", "movie", "coffee"],
+const Min = {
+    name: "Foysal Ahmed Min",
+    pronouns: ["he", "him"],
+    contact: {
+        email: 'foysalahmedmin@gmail.com',
+        phone: '+8801950161811',
+        whatsapp: '+8801950161811',
+      },
+    skills: {
+        languages: ["JavaScript", "TypeScript"],
+        areasOfExpertise: ["Web Development", "Tech"],
+        interests: ["Poetry", "Novels", "Movies", "Coffee"]
+    },
     technologies: {
-        front_end: ["next.js", "react.js", "react-query", "tailwind-css", "boorstrap", "scss"],
-        back_end: ["mode.js", "express.js", "mongoose", "mongoDB", "firebase"],
-        specialized: ["javascript", "typescript", "react.js", "tailwind-css", "frontend architecture"]
+        frontend: {
+            frameworks: ["Next.js", "React.js"],
+            libraries: ["React Query"],
+            styling: ["Tailwind CSS", "Bootstrap", "SCSS"],
+            tools: ["ESLint", "Prettier"]
+        },
+        backend: {
+            frameworks: ["Express.js"],
+            libraries: ["Mongoose", "jsonwebtoken", "bcrypt.js" ,"Axios"],
+            databases: ["MongoDB", "Firebase"],
+            tools: ["Node.js"],
+        },
+        specializedIn: ["JavaScript", "TypeScript", "React.js", "Tailwind CSS", "Frontend Architecture", "backend Architecture"]
     }
 };
 ```
