@@ -43,7 +43,7 @@ const Min = {
             databases: ["MongoDB", "Firebase"],
             tools: ["Node.js"],
         },
-        specializedIn: ["JavaScript", "TypeScript", "React.js", "Tailwind CSS", "Frontend Architecture", "backend Architecture"]
+        specializedIn: ["JavaScript", "TypeScript", "React.js", "Tailwind CSS", "Frontend Architecture"]
     }
 };
 ```
