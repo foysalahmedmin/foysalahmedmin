@@ -14,10 +14,10 @@ Skills: Node / Express.Js / MongoDB / React.Js / Next.Js / JS / HTML / CSS
 - 💬 Ask me about **nodejs, express.js, react, mongodb, nextjs,**
 - 📫 How to reach me **foysalahmedmin@gmail.com**
 
-### aboutFoysal.js
+### about-foysal-ahmed.js
 
 ```javascript
-const Min = {
+export default {
     name: "Foysal Ahmed Min",
     pronouns: ["he", "him"],
     contact: {
@@ -65,13 +65,13 @@ const Min = {
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/foysal-ahmed-min/" target="_blank">
+  <a href="https://www.linkedin.com/in/foysalahmedmin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/foysal.gq?mibextid=ZbWKwL" target="_blank">
+  <a href="https://www.facebook.com/foysalahmedmin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://twitter.com/FoysalAhmedMin" target="_blank">
+  <a href="https://twitter.com/foysalahmedmin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
