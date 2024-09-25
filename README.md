@@ -1,50 +1,48 @@
 ### Assalamualaiqum 🏳️, I'm Foysal Ahmed. 
-![I am MARN stacks web developer.  ](https://media.licdn.com/dms/image/D5616AQH1NRuauk_p1A/profile-displaybackgroundimage-shrink_200_800/0/1687695682401?e=2147483647&v=beta&t=cH8Hj3AHtyfjPjWqEXkQNQJ5AxvT9bo9XYz6tBxhQjA)
+<img src="https://media.licdn.com/dms/image/D5616AQH1NRuauk_p1A/profile-displaybackgroundimage-shrink_200_800/0/1687695682401?e=2147483647&v=beta&t=cH8Hj3AHtyfjPjWqEXkQNQJ5AxvT9bo9XYz6tBxhQjA" style="width:100%;" />
 
-I'm a skilled MERN stack web developer with a passion for creating innovative and user-friendly web applications. Through self-guided learning and practical projects. I have acquired expertise in React.js, MongoDB, Express.js, and Node.js. I am passionate, driven, adaptable, and determined to learn and grow in the field of web development.
+I am a skilled web developer with experience in creating innovative and user-friendly web applications. I have developed a strong foundation in web development technologies and am passionate, adaptable, and eager to grow in my career.
 
-Skills: Node / Express.Js / MongoDB / React.Js / Next.Js / JS / HTML / CSS
+**SKILLS:** Node.Js / Express.Js / MongoDB / Next.Js / React.Js / TS / JS / HTML / CSS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foysalahmedmin&label=Profile%20views&color=0e75b6&style=flat" alt="foysalahmedmin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foysalahmedmin" alt="foysalahmedmin" /></a> </p>
 
 - 🔭 I’m currently working on [FIFOTech](https://fifo-tech.com/)
-- 🌱 I’m currently learning **AI**  
-- 💬 Ask me about **nodejs, express.js, react, mongodb, nextjs,**
+- 🌱 I’m currently learning **AI**
 - 📫 How to reach me **foysalahmedmin@gmail.com**
 
-### about-foysal-ahmed.js
+### foysal-ahmed.js
 
 ```javascript
 export default {
-    name: "Foysal Ahmed Min",
-    pronouns: ["he", "him"],
-    contact: {
-        email: 'foysalahmedmin@gmail.com',
-        phone: '+8801950161811',
-        whatsapp: '+8801950161811',
-      },
-    skills: {
-        languages: ["JavaScript", "TypeScript"],
-        areasOfExpertise: ["Web Development", "Tech"],
-        interests: ["Poetry", "Novels", "Movies", "Coffee"]
+  name: "Foysal Ahmed",
+  pronouns: ["he", "him"],
+  contact: {
+    email: "foysalahmedmin@gmail.com",
+    phone: "+8801950161811",
+    whatsapp: "+8801950161811",
+  },
+  expertise: ["Web Development", "Tech", "Marketing"],
+  skills: {
+    languages: ["JavaScript", "TypeScript"],
+    runtime: ["Node.js"],
+    frontend: {
+      frameworks: ["Next.js"],
+      libraries: ["React.js", "React Query", "Redux", "React Router"],
+      styling: ["Tailwind CSS", "Bootstrap", "SCSS"],
+      tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma"],
     },
-    technologies: {
-        frontend: {
-            frameworks: ["Next.js", "React.js"],
-            libraries: ["React Query", "Redux", "React Router"],
-            styling: ["Tailwind CSS", "Bootstrap", "SCSS"],
-            tools: ["ESLint", "Prettier"]
-        },
-        backend: {
-            frameworks: ["Express.js"],
-            libraries: ["Mongoose", "jsonwebtoken", "bcrypt.js" ,"Axios"],
-            databases: ["MongoDB", "Firebase"],
-            tools: ["Node.js", "Postman"],
-        },
-        specializedIn: ["JavaScript", "TypeScript", "React.js", "Tailwind CSS", "Frontend Architecture"]
-    }
+    backend: {
+      frameworks: ["Express.js"],
+      libraries: ["Mongoose", "jsonwebtoken", "bcrypt.js", "Axios"],
+      databases: ["MongoDB"],
+      tools: ["Postman", "MongoDB Shell"],
+    },
+    specialized: ["JavaScript", "TypeScript", "Next.js", "React.js", "Frontend Architecture"],
+  },
+  interests: ["Poetry", "Novels", "Movies", "Coffee", "Football"],
 };
 ```
 ---------------
