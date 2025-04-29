@@ -5,9 +5,16 @@ I am a skilled web developer with experience in creating innovative and user-fri
 
 **SKILLS:** Node.Js / Express.Js / MongoDB / Next.Js / React.Js / React Native / PY / TS / JS / HTML / CSS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=foysalahmedmin&label=Profile%20views&color=0e75b6&style=flat" alt="foysalahmedmin" /> </p>
+<div> 
+  <img src="https://komarev.com/ghpvc/?username=foysalahmedmin&label=Profile%20views&color=0e75b6&style=flat" alt="foysalahmedmin" /> 
+  <img src="https://img.shields.io/github/followers/foysalahmedmin?label=Followers&style=social" alt="foysalahmedmin followers"/>
+  <img src="https://img.shields.io/github/stars/foysalahmedmin?label=Stars&style=social" alt="foysalahmedmin stars"/> 
+</div>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=foysalahmedmin&theme=darkhub&margin-w=4&margin-h=8" alt="GitHub Trophy" style="object-fit: contain;" />
+</div>
+<br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foysalahmedmin" alt="foysalahmedmin" /></a> </p>
 
 - 👨🏻‍💻 **About Me** ✨ Web Developer
 - 🔭 I’m currently working on [FIFOTech](https://fifo-tech.com/)
