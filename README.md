@@ -1,20 +1,18 @@
 ### Assalamualaiqum 🏳️, I'm Foysal Ahmed. 
 <img src="https://media.licdn.com/dms/image/D5616AQH1NRuauk_p1A/profile-displaybackgroundimage-shrink_200_800/0/1687695682401?e=2147483647&v=beta&t=cH8Hj3AHtyfjPjWqEXkQNQJ5AxvT9bo9XYz6tBxhQjA" style="width:100%;" />
 
-I am a skilled web developer with experience in creating innovative and user-friendly web applications. I have developed a strong foundation in web development technologies and am passionate, adaptable, and eager to grow in my career.
+I am a skilled web developer with a strong foundation in modern web technologies and a growing focus on system solution architecture. I enjoy designing scalable, maintainable applications and building intuitive user experiences. Passionate and adaptable, I approach every project with a thoughtful mindset and a collaborative spirit—always eager to contribute, learn, and grow while working closely with teams and clients to deliver impactful solutions.
 
-**SKILLS:** Node.Js / Express.Js / MongoDB / Next.Js / React.Js / React Native / PY / TS / JS / HTML / CSS
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=foysalahmedmin&theme=darkhub&margin-w=4&margin-h=8" alt="GitHub Trophy" style="object-fit: contain;" />
+</div>
+<br />
 
 <div> 
   <img src="https://komarev.com/ghpvc/?username=foysalahmedmin&label=Profile%20views&color=0e75b6&style=flat" alt="foysalahmedmin" /> 
   <img src="https://img.shields.io/github/followers/foysalahmedmin?label=Followers&style=social" alt="foysalahmedmin followers"/>
   <img src="https://img.shields.io/github/stars/foysalahmedmin?label=Stars&style=social" alt="foysalahmedmin stars"/> 
 </div>
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=foysalahmedmin&theme=darkhub&margin-w=4&margin-h=8" alt="GitHub Trophy" style="object-fit: contain;" />
-</div>
-<br />
-
 
 - 👨🏻‍💻 **About Me** ✨ Web Developer
 - 🔭 I’m currently working on [FIFOTech](https://fifo-tech.com/)
