@@ -18,7 +18,7 @@ I am a skilled web developer with a strong foundation in modern web technologies
 - 🔭 I’m currently working on [FIFOTech](https://fifo-tech.com/)
 - 📫 How to reach me **foysalahmedmin@gmail.com**
 - 👯 Join my opensource community [beendoo](https://github.com/beendoo)
-- 💬 Ask me about SEO/Data Science
+- 💬 Ask me about system design
 - 🌱 I’m currently learning ✨ **AI**
 
 ### foysal-ahmed.js
@@ -50,10 +50,6 @@ export default {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foysalahmedmin&theme=dark&hide_border=false&layout=compact&card_width=325&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=foysalahmedmin&theme=dark&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=foysalahmedmin&theme=dark&hide_border=false&background=0D1117&fire=58A6FF&ring=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&currStreakIcon=58A6FF&border=0D1117" height="150" alt="contribution graph" />
-  <br />
-  <a href="https://github.com/foysalahmedmin">
-  <img src="https://raw.githubusercontent.com/foysalahmedmin/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Foysal Ahmed GitHub Stats" height="155em" />
-</a>
 </div>
 
 ---------------
