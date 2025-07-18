@@ -17,7 +17,7 @@ I am a skilled web developer with a strong foundation in modern web technologies
 - 👨🏻‍💻 **About Me** ✨ Web Developer
 - 🔭 I’m currently working on [FIFOTech](https://fifo-tech.com/)
 - 📫 How to reach me **foysalahmedmin@gmail.com**
-- 👯 Join my opensource community [beendoo](https://github.com/beendoo)
+- 👯 Join my opensource community [BEENDOO](https://github.com/beendoo)
 - 💬 Ask me about system design
 - 🌱 I’m currently learning ✨ **AI**
 
@@ -34,15 +34,26 @@ export default {
   },
   expertise: ["Web Development", "System Solution", "Marketing"], 
   skills: {
-    languages: ["JavaScript", "TypeScript", "Python"],
-    frameworks: ["Next.js", "Express.js", "Expo"], 
-    libraries: ["React.js", "React Native", "React Query", "Redux", "React Router", "Mongoose", "jsonwebtoken", "bcrypt.js", "Axios"], 
+    languages: ["JavaScript", "TypeScript", "Python (Familiar)", "Go (Familiar)"],
+    frameworks: ["Next.js", "Express.js", "Electron", "Expo (Familiar)"], 
+    libraries: [
+      "React.js", "React Native", "React Query", "Redux", "React Router", "Axios", 
+      "Mongoose", "Prisma", "Socket.io", "Redis", "JsonWebToken", "Bcrypt.js",
+      "Express Session"
+    ], 
     styling: ["Tailwind CSS", "Bootstrap", "SCSS", "CSS"], 
-    tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman", "MongoDB Shell", "Android Studio"], 
-    specialized: ["Frontend & Backend Architecture", "JavaScript", "TypeScript", "Next.js", "React.js"], 
+    tools: [
+      "Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman", 
+      "MongoDB Shell", "Android Studio", "Docker (Familiar)"
+    ], 
+    specialized: [
+      "Frontend & Backend Architecture", "JavaScript", "TypeScript", 
+      "Next.js", "React.js", "Express.js"
+    ], 
   },
-  interests: ["Poetry", "Novels", "Movies", "Football", "Puzzle", "Coffee"], 
+  interests: ["Programming", "Poetry", "Novels", "Movies", "Football", "Puzzle", "Coffee"], 
 };
+
 ```
 ---------------
 ###
@@ -69,45 +80,39 @@ export default {
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo" />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo" />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo" />
-  <img width="30" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="24" alt="go logo" />
+
+  <!-- Runtime -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo" />
+
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24" alt="nextjs logo" />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" alt="express logo" />
-  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="24" alt="electron logo" />
 
   <!-- Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo" />
-  <img width="30" />
-  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/socketdotio.svg" height="24" alt="socket.io logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/prisma.svg" height="24" alt="prisma logo" />
+
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo" />
-  <img width="30" />
-  
-  <!-- Runtime -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo" />
-  <img width="30" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="24" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" height="24" alt="redis logo" />
+
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/reactquery.svg" height="24" alt="react query logo" />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="24" alt="sass logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" alt="bootstrap logo" />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="docker logo" />
+
 </div>
 
 
