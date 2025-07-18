@@ -35,61 +35,16 @@ export default {
   },
   expertise: ["Web Development", "System Solution", "Marketing"],
   skills: {
-    languages: [
-      "JavaScript",
-      "TypeScript",
-      "Python (Familiar)",
-      "Go (Familiar)",
-    ],
+    languages: ["JavaScript", "TypeScript", "Python (Familiar)", "Go (Familiar)"],
     frameworks: ["Next.js", "Express.js", "Electron", "Expo (Familiar)"],
-    libraries: [
-      "React.js",
-      "React Native",
-      "React Query",
-      "Redux",
-      "React Router",
-      "Axios",
-      "Mongoose",
-      "Prisma",
-      "Socket.io",
-      "Redis",
-      "JsonWebToken",
-      "Bcrypt.js",
-      "Express Session",
-    ],
+    libraries: ["React.js", "React Native", "React Query", "Redux", "React Router", "Axios", "Mongoose", "Prisma", "Socket.io", "Redis", "JsonWebToken", "Bcrypt.js", "Express Session"],
     styling: ["Tailwind CSS", "Bootstrap", "SCSS", "CSS"],
-    tools: [
-      "Vite",
-      "ESLint",
-      "Prettier",
-      "Chrome DevTools",
-      "Figma",
-      "Postman",
-      "MongoDB Shell",
-      "Android Studio",
-      "Docker (Familiar)",
-    ],
-    specialized: [
-      "Frontend & Backend Architecture",
-      "JavaScript",
-      "TypeScript",
-      "Next.js",
-      "React.js",
-      "Express.js",
-    ],
+    tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman", "MongoDB Shell", "Android Studio", "Docker (Familiar)"],
+    specialized: ["Frontend & Backend Architecture", "JavaScript", "TypeScript", "Next.js", "React.js", "Express.js"],
   },
-  interests: [
-    "Programming",
-    "Poetry",
-    "Novels",
-    "Movies",
-    "Football",
-    "Puzzle",
-    "Coffee",
-  ],
+  interests: ["Programming", "Poetry", "Novels", "Movies", "Football", "Puzzle", "Coffee"],
 };
 ```
-
 ---
 
 ###
