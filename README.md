@@ -27,7 +27,7 @@ I am a skilled web developer with a strong foundation in modern web technologies
 ```javascript
 export default {
   name: "Foysal Ahmed",
-  pronouns: ["he", "him"],
+  pronouns: ["He", "Him"],
   contact: {
     email: "foysalahmedmin@gmail.com",
     phone: "+8801950161811",
