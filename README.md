@@ -39,7 +39,7 @@ export default {
     frameworks: ["Next.js", "Express.js", "Electron", "Expo (Familiar)"],
     libraries: ["React.js", "React Native", "React Query", "Redux", "React Router", "Axios", "Mongoose", "Prisma", "Socket.io", "Redis", "JsonWebToken", "Bcrypt.js", "Express Session"],
     styling: ["Tailwind CSS", "Bootstrap", "SCSS", "CSS"],
-    tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman", "MongoDB Shell", "Android Studio", "Docker (Familiar)"],
+    tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman", "MongoDB Shell", "Android Studio", "Docker (Familiar)", "Kafka (Familiar)"],
     specialized: ["Frontend & Backend Architecture", "JavaScript", "TypeScript", "Next.js", "React.js", "Express.js"],
   },
   interests: ["Programming", "Poetry", "Novels", "Movies", "Football", "Puzzle", "Coffee"],
@@ -105,6 +105,7 @@ export default {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apachekafka.svg" height="24" alt="kafka logo" />
 
 </div>
 
